@@ -6,9 +6,11 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=box-genius&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=box-genius&hide=Html&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=box-genius&theme=tokyonight)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=box-genius&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=box-genius&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=box-genius&theme=tokyonight) |
+| :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=box-genius&theme=tokyonight) ![](https://github-readme-streak-stats.herokuapp.com/?user=box-genius&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=box-genius&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=box-genius&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 </div>
 
@@ -66,4 +68,3 @@ Arquiteto de Soluções, GitOps, DevOps, FinOps e básico dev.
 
   <br>
 </div>
-
