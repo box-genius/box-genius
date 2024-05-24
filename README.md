@@ -5,7 +5,7 @@
 
 # box-genius
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Welcome!&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20am%20box-genius%20&descSize=30" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=370&color=000000&fontColor=FF0000&text=Welcome!&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20am%20box-genius%20&descSize=30" />
 </p>
 
 
@@ -108,5 +108,5 @@ Arquiteto de Soluções, GitOps, DevOps, FinOps e básico dev.
 
 <!-- Footer Animated Image -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Obrigado%20pela%20visita%20&fontSize=60&animation=twinkling&fontAlignY=30&desc=%20Volte%20sempre%20&descSize=30&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=370&color=000000&fontColor=FF0000&text=Obrigado%20pela%20visita%20&fontSize=90&animation=twinkling&fontAlignY=30&desc=%20Volte%20sempre%20&descSize=30&section=footer" />
 </p>
