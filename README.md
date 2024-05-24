@@ -103,10 +103,3 @@ Arquiteto de Soluções, GitOps, DevOps, FinOps e básico dev.
 <!-- END YOUTUBE-CARDS -->
 </p>
 </details>
-
-
-
-<!-- Footer Animated Image -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Aliens%20Live!%20&fontSize=60&animation=twinkling&fontAlignY=30&desc=%20Volte%20Sempre!%20&descSize=30&section=footer" />
-</p>
