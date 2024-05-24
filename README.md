@@ -77,25 +77,25 @@ Arquiteto de Soluções, GitOps, DevOps, FinOps e básico dev.
    <p align="center">
        
 <!-- BEGIN YOUTUBE-CARDS -->
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://www.youtube.com/watch?v=Wudty2ufZ3U">
-        <img src="https://ytcards.demolab.com/?id=Wudty2ufZ3U&tg&title=Morpheus+Reagiert+Cyberangriff&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Morpheus Reagiert Cyberangriff" />
-    </a>
-    <a href="https://www.youtube.com/watch?v=9xcj7iifuRc">
-        <img src="https://ytcards.demolab.com/?id=9xcj7iifuRc&title=Coding+Pacman&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Coding Pacman" />
-    </a>
-    <a href="https://www.youtube.com/watch?v=MNlxRq-bCSk">
-        <img src="https://ytcards.demolab.com/?id=MNlxRq-bCSk&title=Develop+3D+Animated+Websites&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Develop 3D Animated Websites" />
-    </a>
-    <a href="https://www.youtube.com/watch?v=-8ssXnjnws8">
-        <img src="https://ytcards.demolab.com/?id=-8ssXnjnws8&tg&title=Raspi+5+Benchmarks&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Raspi 5 Benchmarks" />
-    </a>
-    <a href="https://www.youtube.com/watch?v=RAFW7plRaUY">
-        <img src="https://ytcards.demolab.com/?id=RAFW7plRaUY&tg&title=Mathe+in+der+Informatik&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Mathe in der Informatik" />
-    </a>
-    <a href="https://www.youtube.com/watch?v=Wudty2ufZ3U">
-        <img src="https://ytcards.demolab.com/?id=Wudty2ufZ3U&tg&title=DOOM+Game+in+Python&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="DOOM Game in Python" />
-    </a>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Wudty2ufZ3U">
+    <img src="https://ytcards.demolab.com/?id=Wudty2ufZ3U&tg&title=Morpheus+Reagiert+Cyberangriff&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Morpheus Reagiert Cyberangriff" width="400" style="border: 1px solid #ddd; border-radius: 10px;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=9xcj7iifuRc">
+    <img src="https://ytcards.demolab.com/?id=9xcj7iifuRc&title=Coding+Pacman&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Coding Pacman" width="400" style="border: 1px solid #ddd; border-radius: 10px;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=MNlxRq-bCSk">
+    <img src="https://ytcards.demolab.com/?id=MNlxRq-bCSk&title=Develop+3D+Animated+Websites&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Develop 3D Animated Websites" width="400" style="border: 1px solid #ddd; border-radius: 10px;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=-8ssXnjnws8">
+    <img src="https://ytcards.demolab.com/?id=-8ssXnjnws8&tg&title=Raspi+5+Benchmarks&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Raspi 5 Benchmarks" width="400" style="border: 1px solid #ddd; border-radius: 10px;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=RAFW7plRaUY">
+    <img src="https://ytcards.demolab.com/?id=RAFW7plRaUY&tg&title=Mathe+in+der+Informatik&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Mathe in der Informatik" width="400" style="border: 1px solid #ddd; border-radius: 10px;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=Wudty2ufZ3U">
+    <img src="https://ytcards.demolab.com/?id=Wudty2ufZ3U&tg&title=DOOM+Game+in+Python&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="DOOM Game in Python" width="400" style="border: 1px solid #ddd; border-radius: 10px;">
+  </a>
 </div>
 
 
