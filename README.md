@@ -1,10 +1,14 @@
 <!-- <div align="center"> -->
-
-# Box Genius
-
 <img align="right" src="https://komarev.com/ghpvc/?username=box-genius&color=ff69b4"><br>
 
 <div align="center">
+
+# box-genius
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Welcome!&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20am%20box-genius%20&descSize=30" />
+</p>
+
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=box-genius&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=box-genius&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=box-genius&theme=tokyonight) |
 | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
@@ -65,6 +69,24 @@ Arquiteto de Soluções, GitOps, DevOps, FinOps e básico dev.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/VPN-FF4500?style=for-the-badge&logo=vpn&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
-
   <br>
 </div>
+
+<details open> 
+  <summary><h2>Apresentações youtube</h2></summary>
+   <p align="center">
+       
+<!-- BEGIN YOUTUBE-CARDS -->
+| [![The Morpheus](https://ytcards.demolab.com/?id=Wudty2ufZ3U&tg&title=Morpheus+Reagiert+Cyberangriff&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "new video")](https://www.youtube.com/watch?v=Wudty2ufZ3U) | [![Coding Pacman](https://ytcards.demolab.com/?id=9xcj7iifuRc&title=Coding+Pacman&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "new video")](https://www.youtube.com/watch?v=9xcj7iifuRc) | [![Three.js 3D Dev](https://ytcards.demolab.com/?id=MNlxRq-bCSk&title=Develop+3D+Animated+Websites&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "new video")](https://www.youtube.com/watch?v=MNlxRq-bCSk) |
+| [![Raspi 5](https://ytcards.demolab.com/?id=-8ssXnjnws8&tg&title=Raspi+5+Benchmarks&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "new video")](https://www.youtube.com/watch?v=-8ssXnjnws8) | [![Mathe?](https://ytcards.demolab.com/?id=RAFW7plRaUY&tg&title=Mathe+in+der+Informatik&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "new video")](https://www.youtube.com/watch?v=RAFW7plRaUY) | [![DOOM](https://ytcards.demolab.com/?id=Wudty2ufZ3U&tg&title=DOOM+Game+in+Python&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "new video")](https://www.youtube.com/watch?v=Wudty2ufZ3U) |
+
+<!-- END YOUTUBE-CARDS -->
+</p>
+</details>
+
+
+
+<!-- Footer Animated Image -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Obrigado%20pela%20visita%20&fontSize=60&animation=twinkling&fontAlignY=30&desc=%20Volte%20sempre%20&descSize=30&section=footer" />
+</p>
