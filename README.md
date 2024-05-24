@@ -77,8 +77,27 @@ Arquiteto de Soluções, GitOps, DevOps, FinOps e básico dev.
    <p align="center">
        
 <!-- BEGIN YOUTUBE-CARDS -->
- [![The Morpheus](https://ytcards.demolab.com/?id=Wudty2ufZ3U&tg&title=Morpheus+Reagiert+Cyberangriff&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "new video")](https://www.youtube.com/watch?v=Wudty2ufZ3U)  [![Coding Pacman](https://ytcards.demolab.com/?id=9xcj7iifuRc&title=Coding+Pacman&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "new video")](https://www.youtube.com/watch?v=9xcj7iifuRc)  [![Three.js 3D Dev](https://ytcards.demolab.com/?id=MNlxRq-bCSk&title=Develop+3D+Animated+Websites&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "new video")](https://www.youtube.com/watch?v=MNlxRq-bCSk)
- [![Raspi 5](https://ytcards.demolab.com/?id=-8ssXnjnws8&tg&title=Raspi+5+Benchmarks&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "new video")](https://www.youtube.com/watch?v=-8ssXnjnws8) [![Mathe?](https://ytcards.demolab.com/?id=RAFW7plRaUY&tg&title=Mathe+in+der+Informatik&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "new video")](https://www.youtube.com/watch?v=RAFW7plRaUY) [![DOOM](https://ytcards.demolab.com/?id=Wudty2ufZ3U&tg&title=DOOM+Game+in+Python&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "new video")](https://www.youtube.com/watch?v=Wudty2ufZ3U)
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://www.youtube.com/watch?v=Wudty2ufZ3U">
+        <img src="https://ytcards.demolab.com/?id=Wudty2ufZ3U&tg&title=Morpheus+Reagiert+Cyberangriff&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Morpheus Reagiert Cyberangriff" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=9xcj7iifuRc">
+        <img src="https://ytcards.demolab.com/?id=9xcj7iifuRc&title=Coding+Pacman&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Coding Pacman" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=MNlxRq-bCSk">
+        <img src="https://ytcards.demolab.com/?id=MNlxRq-bCSk&title=Develop+3D+Animated+Websites&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Develop 3D Animated Websites" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=-8ssXnjnws8">
+        <img src="https://ytcards.demolab.com/?id=-8ssXnjnws8&tg&title=Raspi+5+Benchmarks&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Raspi 5 Benchmarks" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=RAFW7plRaUY">
+        <img src="https://ytcards.demolab.com/?id=RAFW7plRaUY&tg&title=Mathe+in+der+Informatik&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Mathe in der Informatik" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=Wudty2ufZ3U">
+        <img src="https://ytcards.demolab.com/?id=Wudty2ufZ3U&tg&title=DOOM+Game+in+Python&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="DOOM Game in Python" />
+    </a>
+</div>
+
 
 <!-- END YOUTUBE-CARDS -->
 </p>
