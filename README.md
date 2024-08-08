@@ -17,17 +17,3 @@
 | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 </div>
-
-<br>
-
-## Seja bem vindo
-
-<p align="center">
-    <a href="https://github.com/box-genius" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/davi-santos-cardoso-da-silva-b4678524a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href = "mailto:devops.davi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-#### aproveite os repositórios gratuítos de alto nível.
-
-#### explorar galáxias, navegar pelo universo em busca de futuros! "Chequisper"
